@@ -23,10 +23,10 @@ This page answers three questions people keep asking:
 
 | Casino | What it is | Min deposit | Welcome offer | Wagering | The catch |
 |---|---|---|---|---|---|
-| **Winit** | casino, sportsbook and Polymarket prediction markets in one account | £20 | 400% + 100 free spins | 30x, £0.10 max stake while clearing | First withdrawal is slow — KYC runs before it, then bank rails take up to a week. £5,000 cap per withdrawal. |
-| **Wager Land** | the broadest lobby: 110+ providers, 350+ jackpot slots | £20 | 400% up to £4,000 + 300 free spins and a Wheel of Luck spin | 35x within 30 days | The published 1–3 working days covers approval only; your payment method adds its own time. The 30-day clock is a deadline, not a cushion. |
-| **Golden Genie** | slots first: 1,000+ titles with provider filters that actually work | £20 | 400% up to £2,000 + 100 spins, rising to £6,000 and 175 spins across five deposits | 50x | The highest multiplier here. A big headline number turns into a long grind. No no-deposit offer, no app. |
-| **Wager Tales** | package-led: a bonus ladder across several deposits, 44 providers, crypto-led cashier | £20 | 400% up to £2,000 + 200 spins, rising to £6,000 and 600 spins across the ladder | 35x | The highest minimum withdrawal of the four, which decides whether a small test payout is possible at all. |
+| **[Winit](https://readthewagering.com/go/winit/uk-web-033)** | casino, sportsbook and Polymarket prediction markets in one account | £20 | 400% + 100 free spins | 30x, £0.10 max stake while clearing | First withdrawal is slow — KYC runs before it, then bank rails take up to a week. £5,000 cap per withdrawal. |
+| **[Wager Land](https://readthewagering.com/go/wagerland/uk-web-036)** | the broadest lobby: 110+ providers, 350+ jackpot slots | £20 | 400% up to £4,000 + 300 free spins and a Wheel of Luck spin | 35x within 30 days | The published 1–3 working days covers approval only; your payment method adds its own time. The 30-day clock is a deadline, not a cushion. |
+| **[Golden Genie](https://readthewagering.com/go/goldengenie/uk-web-034)** | slots first: 1,000+ titles with provider filters that actually work | £20 | 400% up to £2,000 + 100 spins, rising to £6,000 and 175 spins across five deposits | 50x | The highest multiplier here. A big headline number turns into a long grind. No no-deposit offer, no app. |
+| **[Wager Tales](https://readthewagering.com/go/wagertales/uk-web-035)** | package-led: a bonus ladder across several deposits, 44 providers, crypto-led cashier | £20 | 400% up to £2,000 + 200 spins, rising to £6,000 and 600 spins across the ladder | 35x | The highest minimum withdrawal of the four, which decides whether a small test payout is possible at all. |
 
 Operator figures, autumn 2026. Terms change without notice — read them on the operator's own site
 before you deposit.
@@ -67,10 +67,10 @@ surprised by it.
 
 | Casino | Crypto position |
 |---|---|
-| **Winit** | USDT is supported and is the faster of its two withdrawal routes — the operator's own framing is that bank transfers are slowed by the compliance check while USDT is not. Cards, Apple Pay, Google Pay, Paysafecard, Skrill, Neteller, Rapid and Flexepin also work from a UK bank. |
-| **Wager Tales** | The cashier is crypto-led: crypto is the main rail rather than an afterthought. |
-| **Wager Land** | Crypto is accepted alongside cards and e-wallets; the brand does not publish a per-coin breakdown up front. |
-| **Golden Genie** | Crypto is accepted; the published detail is thinner than at the two above. |
+| **[Winit](https://readthewagering.com/go/winit/uk-web-033)** | USDT is supported and is the faster of its two withdrawal routes — the operator's own framing is that bank transfers are slowed by the compliance check while USDT is not. Cards, Apple Pay, Google Pay, Paysafecard, Skrill, Neteller, Rapid and Flexepin also work from a UK bank. |
+| **[Wager Tales](https://readthewagering.com/go/wagertales/uk-web-035)** | The cashier is crypto-led: crypto is the main rail rather than an afterthought. |
+| **[Wager Land](https://readthewagering.com/go/wagerland/uk-web-036)** | Crypto is accepted alongside cards and e-wallets; the brand does not publish a per-coin breakdown up front. |
+| **[Golden Genie](https://readthewagering.com/go/goldengenie/uk-web-034)** | Crypto is accepted; the published detail is thinner than at the two above. |
 
 **If crypto is the reason you are here:** the coin is the fast part, the account is the slow part.
 Verification still runs before the first withdrawal regardless of the rail, and a casino that
@@ -85,17 +85,17 @@ by card and expecting a USDT payout does not work.
 The combination of a real live-dealer section and a large slot lobby in the same account is narrower
 than the marketing suggests.
 
-- **Winit** — 1,000+ slots plus a live casino section, and a sportsbook and
+- **[Winit](https://readthewagering.com/go/winit/uk-web-033)** — 1,000+ slots plus a live casino section, and a sportsbook and
   Polymarket prediction markets behind the same login. Providers include Pragmatic, Play'n GO,
   NetEnt, Nolimit City, Hacksaw, Push, Relax, Playson, BGaming, Yggdrasil, Novomatic, Merkur, EGT,
   Microgaming, IGT and around thirty more. This is the one account of the four that covers slots,
   live tables, sport and prediction markets at once.
-- **Wager Land** — the largest catalogue here: 110+ providers and over 350
+- **[Wager Land](https://readthewagering.com/go/wagerland/uk-web-036)** — the largest catalogue here: 110+ providers and over 350
   jackpot slots. Jackpot slots are the category that disappears under tighter licensing regimes, so
   this is a genuine difference rather than a marketing line.
-- **Golden Genie** — 1,000+ titles and, unusually, provider filters that
+- **[Golden Genie](https://readthewagering.com/go/goldengenie/uk-web-034)** — 1,000+ titles and, unusually, provider filters that
   work, which is what makes a large lobby usable rather than just large.
-- **Wager Tales** — the smallest provider count of the four at 44, with the
+- **[Wager Tales](https://readthewagering.com/go/wagertales/uk-web-035)** — the smallest provider count of the four at 44, with the
   budget going into the bonus ladder instead.
 
 All four run in a mobile browser. **None of them has an app** — not on the App Store, not on Google
@@ -168,3 +168,6 @@ without notice.
 separate from money you need, and never chase a loss. Free, independent support:
 [GamCare](https://www.gamcare.org.uk), National Gambling Helpline 0808 8020 133,
 [BeGambleAware](https://www.begambleaware.org).
+
+This page contains affiliate links: if an account is opened through one, the page's owner is paid a
+commission. It does not change the terms you get, and it has not changed what is written here.
